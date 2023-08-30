@@ -2,9 +2,9 @@
 
 Welcome to Obstacle Everest! A VR Punishing Climbing Game with no checkpoints and a map spanning over 5 Kilometers in height. Climb to the top to become the Climbing Champion!
 
-# ⚠ CURRENTLY IN PUBLIC ALPHA ⚠
+# ⚠ CURRENTLY IN PUBLIC BETA ⚠
 
-Obstacle Everest is currently in public alpha, meaning that there is still many changes and development underway for the game, but it is available to play now! Please expect bugs. If you find any, please report them in our [Discord Server](https://discord.gg/t2GNCqMdD9). Thank you for your patience!
+Obstacle Everest is currently in public beta, meaning that there is still many changes and development underway for the game, but it is available to play now! Please expect bugs. If you find any, please report them in our [Discord Server](https://discord.gg/t2GNCqMdD9). Thank you for your patience!
 
 # ✅ Prerequisites ✅
 
